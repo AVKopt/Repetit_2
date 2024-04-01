@@ -1,0 +1,14 @@
+matplotlib==3.7.3
+seaborn==0.12.2
+numpy==1.23.5
+pandas==2.1.4
+regex==2023.10.3
+colorama==0.4.6
+phik==0.12.3
+scipy==1.10.0
+scikit-learn==1.0.2
+optuna==3.4.0
+mlxtend==0.23.0
+python-magic==0.4.27
+crucio==0.1.94
+lightgbm==4.1.0
